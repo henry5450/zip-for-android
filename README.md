@@ -2,7 +2,7 @@
 
 Info-ZIP **zip 3.0**（2008-07-05，上游源码）的 Android 交叉编译版本。
 
-预编译产物见 [Releases](../../releases)：`arm64-v8a`、`armeabi-v7a`、`x86_64`。
+预编译产物见 [Releases](https://github.com/henry5450/zip-for-android/releases)：`arm64-v8a`、`armeabi-v7a`、`x86_64`。
 
 ## 包含的二进制
 
